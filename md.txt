@@ -1,1 +1,0 @@
-<h2> should rename the folder to theme_eagleshop</h2>
