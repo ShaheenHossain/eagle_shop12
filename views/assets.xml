@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<eagle>
     <!-- Assets Frontend -->
     <template id="asset_frontend" inherit_id="web.assets_frontend" name="Theme eagleshop Frontend">
         <xpath expr="." position="inside">
@@ -47,4 +47,4 @@
           <script src="/theme_eagleshop/static/src/js/eagleshop_common_custom.js" type="text/javascript"/>
         </xpath>
     </template>
-</odoo>
+</eagle>

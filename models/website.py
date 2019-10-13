@@ -6,11 +6,11 @@ import werkzeug
 import calendar
 from datetime import datetime
 import time
-from odoo import SUPERUSER_ID
-from odoo.http import request
-from odoo import api, fields, models, _
-from odoo.addons.website.models.website import slugify
-from odoo.tools.translate import _
+from eagle import SUPERUSER_ID
+from eagle.http import request
+from eagle import api, fields, models, _
+from eagle.addons.website.models.website import slugify
+from eagle.tools.translate import _
 
 
 class WebsiteMenu(models.Model):

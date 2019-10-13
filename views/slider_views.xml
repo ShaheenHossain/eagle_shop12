@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<eagle>
     <menuitem id="eagleshop_menu_slider_config" name="Slider Configuration" parent="sale.sale_menu_root" sequence="101"/>
     <!-- Blog Slider -->
     <!-- Blog Slider Form View-->
@@ -249,4 +249,4 @@
     </record>
     <!-- Featured Product menu in slider config -->
     <menuitem action="featured_prod_slider_action" id="featured_prod_slider_menu" name="Featured Product Slider Configuration" parent="theme_eagleshop.eagleshop_menu_slider_config" sequence="60"/>
-</odoo>
+</eagle>

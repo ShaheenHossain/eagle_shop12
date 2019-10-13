@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<eagle>
         <!-- Home Slider snippet -->
         <template id="s_theme_eagleshop_homes_slider_snippet" name="Home Slider">
             <div class="banner carousel slide s_theme_eagleshop_homes_slider_snippet" data-interval="10000" data-ride="carousel" id="myCarousel">
@@ -5377,7 +5377,7 @@
                 </div>
             </xpath>
         </template>
-</odoo>
+</eagle>
 
        <!--  <template id="s_theme_eagleshop_about_us_2" name="About Us 2">
             <section class="about-us1 s_theme_eagleshop_about_us_2">

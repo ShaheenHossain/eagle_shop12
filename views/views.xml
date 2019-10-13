@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<eagle>
     <record id="eagleshop_view_res_partner_form_inherit" model="ir.ui.view">
         <field name="name">eagleshop.view.res.partner.form.inherit</field>
         <field name="model">res.partner</field>
@@ -172,7 +172,7 @@
     </record>
     <!-- Menu for product sorting -->
     <menuitem action="action_for_product_sorting" id="sub_menu_sort_by" name="Product Sorting" parent="sale.menu_sale_config" sequence="80"/>
-    <!-- New rating feature for displying only stars in any view for odoo 12 -->
+    <!-- New rating feature for displying only stars in any view for eagle 12 -->
     <template id="inherited_message_thread" inherit_id="portal.message_thread">
         <xpath expr="//div[@id='discussion']" position="attributes">
             <attribute name="t-att-data-rating_val">rating_val or 6</attribute>
@@ -194,4 +194,4 @@
             </xpath>
         </field>
     </record>
-</odoo>
+</eagle>

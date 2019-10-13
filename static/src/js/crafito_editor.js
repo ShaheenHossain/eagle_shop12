@@ -1,4 +1,4 @@
-odoo.define('theme_eagleshop.eagleshop_editor_js', function(require) {
+eagle.define('theme_eagleshop.eagleshop_editor_js', function(require) {
     'use strict';
 
     var options = require('web_editor.snippets.options');

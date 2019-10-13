@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Part of AppJetty. See LICENSE file for full copyright and licensing details.
 
-from odoo import api, fields, models
+from eagle import api, fields, models
 
 
 class EventInherit(models.Model):

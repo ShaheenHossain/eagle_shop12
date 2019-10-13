@@ -1,4 +1,4 @@
-odoo.define('theme_eagleshop.eagleshop_custom_js', function(require) {
+eagle.define('theme_eagleshop.eagleshop_custom_js', function(require) {
     'use strict';
 
     var ajax = require('web.ajax');

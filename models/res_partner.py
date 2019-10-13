@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Part of AppJetty. See LICENSE file for full copyright and licensing details.
 
-from odoo import api, fields, models
+from eagle import api, fields, models
 
 
 class ResPartnerInherit(models.Model):
@@ -15,11 +15,11 @@ class HrEmployee(models.Model):
 
     include_inourteam = fields.Boolean(string="Enable to make the employee visible in snippet")
     emp_social_twitter = fields.Char(string="Twitter account",
-                                     default="https://twitter.com/Odoo", translate=True)
+                                     default="https://twitter.com/Eagle", translate=True)
     emp_social_facebook = fields.Char(
-        string="Facebook account", default="https://www.facebook.com/Odoo", translate=True)
+        string="Facebook account", default="https://www.facebook.com/Eagle", translate=True)
     emp_social_linkdin = fields.Char(
-        string="Linkedin account", default="https://www.linkedin.com/company/odoo", translate=True)
+        string="Linkedin account", default="https://www.linkedin.com/company/eagle", translate=True)
     emp_description = fields.Text(
         string="Short description about employee", translate=True)
 

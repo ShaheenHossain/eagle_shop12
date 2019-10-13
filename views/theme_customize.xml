@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<odoo>
+<eagle>
        
         <!-- Option Primary Fonts -->
         <template active="False" customize_show="True" id="option_font_style_open_sans" inherit_id="theme_eagleshop.asset_frontend" name="option_font_style_open_sans">
@@ -267,4 +267,4 @@
                 </div> -->
             </xpath>
         </template>
-</odoo>
+</eagle>

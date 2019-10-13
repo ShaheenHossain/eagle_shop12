@@ -3,13 +3,13 @@
 
 import re
 import math
-from odoo import http, SUPERUSER_ID, fields
-from odoo.http import request
-from odoo.addons.http_routing.models.ir_http import slug
-from odoo.addons.website.controllers.main import QueryURL
-from odoo.addons.website_sale.controllers import main
-from odoo.addons.website_sale.controllers.main import WebsiteSale
-from odoo.addons.website_sale.controllers.main import TableCompute
+from eagle import http, SUPERUSER_ID, fields
+from eagle.http import request
+from eagle.addons.http_routing.models.ir_http import slug
+from eagle.addons.website.controllers.main import QueryURL
+from eagle.addons.website_sale.controllers import main
+from eagle.addons.website_sale.controllers.main import WebsiteSale
+from eagle.addons.website_sale.controllers.main import TableCompute
 
 
 class EagleshopSliderSettings(http.Controller):
@@ -360,7 +360,7 @@ class EagleshopEcommerceShop(WebsiteSale):
         result = super(EagleshopEcommerceShop, self).shop(
             page=page, category=category, search=search, **post)
 
-        # odoo11
+        # eagle11
         # for displaying after whishlist or add to cart button n product_detail page
         if request.env.get('product.attribute.category') != None:
             compare_tmpl_obj = request.env.ref(

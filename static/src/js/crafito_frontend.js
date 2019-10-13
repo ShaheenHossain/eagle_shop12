@@ -1,4 +1,4 @@
-odoo.define('theme_eagleshop.eagleshop_frontend_js', function(require) {
+eagle.define('theme_eagleshop.eagleshop_frontend_js', function(require) {
     'use strict';
 
     var animation = require('website.content.snippets.animation');

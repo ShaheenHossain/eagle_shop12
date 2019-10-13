@@ -1,4 +1,4 @@
-odoo.define('theme_eagleshop.eagleshop_common_custom.js', function(require) {
+eagle.define('theme_eagleshop.eagleshop_common_custom.js', function(require) {
     'use strict';
 
     var $filter_defult = $('#filterOptions li span')

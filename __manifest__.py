@@ -14,42 +14,42 @@ Event theme
 Medical equipments theme
 multipurpose template for industry
 multipurpose template for all industries
-odoo custom theme
-customizable odoo theme
-multi industry odoo theme
-multi purpose responsive odoo theme
-multipurpose website template for odoo
-odoo multipurpose theme for industry
-multipurpose templates for odoo
-odoo ecommerce templates
-odoo ecommerce theme
-odoo ecommerce themes
-odoo responsive themes
-odoo website themes
-odoo ecommerce website theme
-odoo theme for ecommerce store
-odoo bootstrap themes
-customize odoo theme
-odoo ecommerce store theme for business
-odoo theme for business
-odoo responsive website theme
+eagle custom theme
+customizable eagle theme
+multi industry eagle theme
+multi purpose responsive eagle theme
+multipurpose website template for eagle
+eagle multipurpose theme for industry
+multipurpose templates for eagle
+eagle ecommerce templates
+eagle ecommerce theme
+eagle ecommerce themes
+eagle responsive themes
+eagle website themes
+eagle ecommerce website theme
+eagle theme for ecommerce store
+eagle bootstrap themes
+customize eagle theme
+eagle ecommerce store theme for business
+eagle theme for business
+eagle responsive website theme
 Eagle Theme
-Odoo Eagle Theme
-Eagle theme for Odoo
-odoo 11 theme
+Eagle Eagle Theme
+Eagle theme for Eagle
+eagle 11 theme
 multipurpose theme
-odoo multipurpose theme
-odoo responsive theme
+eagle multipurpose theme
+eagle responsive theme
 responsive theme
-odoo theme
-odoo themes
+eagle theme
+eagle themes
 ecommerce theme
-odoo ecommerce themes
-odoo website themes
-odoo bootstrap themes
+eagle ecommerce themes
+eagle website themes
+eagle bootstrap themes
 bootstrap themes
 bootstrap theme
-customize odoo theme
+customize eagle theme
 ecommerce store theme
 theme for business
 theme for ecommerce store
